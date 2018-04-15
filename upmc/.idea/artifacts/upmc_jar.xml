@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="upmc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/upmc_jar</output-path>
+    <root id="archive" name="upmc.jar">
+      <element id="module-output" name="upmc" />
+    </root>
+  </artifact>
+</component>
